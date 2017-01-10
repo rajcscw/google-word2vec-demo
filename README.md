@@ -9,5 +9,10 @@ Instead of creating from own embedding, one could use google's pre-trained embed
 To get started:
 
 1) Install gensim
+
 2) Download the  bin file (google's trained model)
-3) Play around with embeddings using (inspect_word2vec.py)
+
+3) Play around with embeddings using (fiddle.py)
+
+
+What can you find in fiddle.py:
