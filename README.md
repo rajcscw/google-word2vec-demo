@@ -1,7 +1,7 @@
 # google-word2vec-demo
 A simple minimalistic demo of using google's pre-trained word2vec model
 
-Recently, I have been trying to convert words into features so that it could be fed into models for many machine learning tasks
+Recently, I have been trying to convert words into features so that they could be fed into models for many machine learning tasks
 like text generation, text classification, sentiment analysis etc.
 
 Instead of creating your own embedding from sentences you have, you could just use google's pre-trained embedding (.bin) and load them into word2vec model and do all you want to do... This is really useful and saves training time. Also, this pre-trained model consists of 3 billion words and each word is represented by a 300-D feature vector.
