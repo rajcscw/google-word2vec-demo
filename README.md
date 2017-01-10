@@ -50,7 +50,7 @@ print(car.shape)
 print(model.most_similar(positive=[car], negative=[], topn=1))
 ```
 
-Note: You might encounter memory error or loading of model and model_similar() might take very long time which you have to overcome by using high end machines or diving deep into gensim API for optimizations.
+Note: You might encounter memory error or loading of model and most_similar() might take very long time which you have to overcome by using high end machines or diving deep into gensim API for optimizations.
 
 References:
 * [http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
