@@ -12,7 +12,7 @@ To get started:
 
 2) Download the  bin file (google's trained model)
 
-3) Play around with embeddings using (fiddle.py)
+3) Play around with embeddings using [fiddle.py] (https://github.com/rajcscw/google-word2vec-demo/blob/master/fiddle.py)
 
 
-What can you find in fiddle.py:
+What can you find in [fiddle.py] (https://github.com/rajcscw/google-word2vec-demo/blob/master/fiddle.py):
